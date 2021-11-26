@@ -9,6 +9,7 @@ removed and bolded text is used instead. Colours are in-
 tended to be more vibrant.
 
 ## Screenshot
-![Screenshot]
+![image](https://user-images.githubusercontent.com/13120817/143544546-f5717095-200f-49b5-8829-bcb7cc96c198.png)
+
 
 **Enjoy!**
