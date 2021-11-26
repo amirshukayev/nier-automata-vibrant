@@ -1,0 +1,21 @@
+{
+    "name": "nier-automata-vibrant",
+    "displayName": "nier-automata-vibrant",
+    "description": "More vibrant version of the Nier Automata inspired theme by https://github.com/shelune/",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.62.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "nier-automata-vibrant",
+                "uiTheme": "vs",
+                "path": "./themes/nier-automata-vibrant-color-theme.json"
+            }
+        ]
+    }
+}
